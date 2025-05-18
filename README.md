@@ -56,3 +56,9 @@ $ npm run test:cov
 ## Event
 
 <a href="https://lp.rocketseat.com.br/inscricao/ignite-lab?referralId=gleydson-2210" target="_blank">Event - microservice with Node.js.</a>
+
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](./LICENSE)
+![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/notifications-service-nodejs-nestjs-ts?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/notifications-service-nodejs-nestjs-ts?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/notifications-service-nodejs-nestjs-ts?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/notifications-service-nodejs-nestjs-ts?style=for-the-badge)
